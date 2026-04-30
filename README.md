@@ -21,7 +21,7 @@ This configuration represents the peak sustained performance of the M4 Pro chip 
 *   **Stability:** **98.73%**
 *   **Summary:** Excellent thermal management; the system maintains near-peak performance throughout the duration of the test.
 
-![Plugged In | High Power Mode | Default Fan Curve](<截屏2026-04-30 13.03.45.png>)
+![Plugged In | High Power Mode | Default Fan Curve](./Screenshots/Plugged_In_High_Power_Mode_Default_Fan_Curve.png)
 
 ---
 
@@ -35,8 +35,7 @@ This test evaluates the hardware's passive cooling limits and the aggressiveness
     *   **300s+:** Performance plateaued, maintaining a flat horizontal line once the thermal equilibrium/throttling floor was reached.
 *   **Summary:** Significant throttling occurs without active cooling, losing approximately 38% of peak performance to protect hardware integrity.
 
-![Plugged In | High Power Mode | Fans Disabled](<截屏2026-04-30 13.03.54.png>)
-
+![Plugged In | High Power Mode | Fans Disabled](./Screenshots/Plugged_In_High_Power_Mode_Fans_Disabled.png)
 ---
 
 ### 3. Battery Power | Low Power Mode | Fans Disabled
@@ -46,7 +45,7 @@ This configuration tests the efficiency and "sweet spot" of the M4 Pro silicon w
 *   **Stability:** **97.31%**
 *   **Summary:** While the ceiling is lower, the system achieves remarkable stability. The heat output in Low Power Mode is low enough that the system remains stable even without fans.
 
-![Battery Power | Low Power Mode | Fans Disabled](<截屏2026-04-30 13.04.02.png>)
+![Battery Power | Low Power Mode | Fans Disabled](./Screenshots/Battery_Power_Low_Power_Mode_Fans_Disabled.png)
 
 ## 📊 Intuitive Comparision
 
